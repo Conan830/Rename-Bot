@@ -1,5 +1,4 @@
-# (c) @AbirHasan2005
-
+# (c) @PbAjay
 import os
 import logging
 
